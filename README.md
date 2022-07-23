@@ -7,7 +7,6 @@ Fork on GitHub2735
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyik&label=Profile%20views&color=0e75b6&style=flat" alt="satyik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyik" alt="satyik" /></a> </p>
 
 - 📫 How to reach me **satyikpritamy@gmail.com**
 
@@ -17,9 +16,9 @@ Fork on GitHub2735
 <p align="left">
 <a href="https://linkedin.com/in/satyik pritam yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyik pritam yogi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/satyik_ug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyik_ug" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/satyikpritamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="satyikpritamy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/satyikpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="satyikpritamy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyik" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/satyik_ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyik_ug" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/satyikug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyik_ug" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
