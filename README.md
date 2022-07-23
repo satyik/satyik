@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo10888
-Fork on GitHub2735
 <h1 align="center">Hi 👋, I'm Satyik Pritam Yogi</h1>
 <h3 align="center">Backend Developer with knowledge of Node.js</h3>
 
@@ -14,7 +10,7 @@ Fork on GitHub2735
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyik pritam yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyik pritam yogi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satyik-pritam-yogi-a6a49019a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyik pritam yogi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/satyik_ug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyik_ug" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/satyikpritam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="satyikpritamy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyik" height="30" width="40" /></a>
